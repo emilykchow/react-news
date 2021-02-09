@@ -10,7 +10,7 @@ function App() {
       <br />
       <Buttons />
       <Stories />
-      <Buttons />
+      {/* <Buttons /> */}
     </div>
   );
 }
